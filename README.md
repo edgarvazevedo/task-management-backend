@@ -1,20 +1,6 @@
 # Backend Node.js con Express y MongoDB
 
 ## Estructura de Carpetas y Archivos:
-backend/
-│
-├── src/
-│ ├── models/
-│ │ └── Task.ts
-│ ├── routes/
-│ │ └── tasks.ts
-│ ├── database.ts
-│ └── index.ts
-│
-├── .env
-├── .gitignore
-├── package.json
-└── README.md
 
 
 - **`src/`**: Directorio principal del código fuente del backend.
